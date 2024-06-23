@@ -1,8 +1,8 @@
 {
-  "name": "firstsn",
+  "name": "app-project-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://humster2612.github.io/NewMobApplication",
+  "homepage": "https://github.com/humster2612/appProjectReact.git",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
     "@testing-library/jest-dom": "^5.17.0",
@@ -10,7 +10,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.2",
     "formik": "^2.4.6",
-    "gh-pages": "^6.1.1",
     "keyv": "^4.5.4",
     "mongoose": "^8.4.3",
     "react": "^18.2.0",
@@ -32,7 +31,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
+},
+
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -56,6 +56,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@typescript-eslint/parser": "^7.13.1",
+    "gh-pages": "^6.1.1",
+    "typescript": "^5.5.2"
   }
 }

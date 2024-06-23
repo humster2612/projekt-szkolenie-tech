@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/humster2612/appProjectReact.git/static/css/main.962801a3.css",
+    "main.js": "/humster2612/appProjectReact.git/static/js/main.108cd06a.js",
+    "index.html": "/humster2612/appProjectReact.git/index.html",
+    "main.962801a3.css.map": "/humster2612/appProjectReact.git/static/css/main.962801a3.css.map",
+    "main.108cd06a.js.map": "/humster2612/appProjectReact.git/static/js/main.108cd06a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.962801a3.css",
+    "static/js/main.108cd06a.js"
+  ]
+}
