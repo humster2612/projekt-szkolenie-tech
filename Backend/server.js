@@ -66,7 +66,9 @@ app.post('/login', async (req, res) => {
 
 
 
-
+app.get('/api', (req, res) => {
+  res.send('Hello from backend!');
+});
 
 
 // Слушаем порт сервера
