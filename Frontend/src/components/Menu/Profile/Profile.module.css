@@ -1,0 +1,14 @@
+#itemnav{
+    background-color: #f1f1f1;
+    margin: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    padding: 0px 15px 35px 15px;
+    position: relative;
+    margin-bottom: 30px;
+    z-index: 0;
+    
+    
+}
+
